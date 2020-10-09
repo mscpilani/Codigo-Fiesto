@@ -6,7 +6,7 @@
 ***
 ### **Want to earn Digital Swags and Recognitions!**
   - *Clone the repository.*
-  - *Add your .html file, .css file, and the screenshot of your build website to folder named as your name.*
+  - *Add your .html file, .css file, and the screenshot of your built website to folder named as your name.*
   - *Add your name folder to this workshop folder.*
   - *Send the Pull Request.*
   - *Share your work on social media tagging @mscpilani.*
