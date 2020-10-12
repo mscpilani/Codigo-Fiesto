@@ -6,7 +6,7 @@
 ### Want to earn Digital Swags and Recognitions!
   - Clone the repository.
   - Add your work to the respective workshop folder.
-  - Share your work on social media tagging @mscpilani.
+  - Share your work on social media tagging @mscpilani and use #codigofiesto & #mscpilani.
  
 *** 
 **Daily Top 5 learners will get Digital Swags and their works will be showcased on Microsoft Student Club Pilani's Social Media.**
