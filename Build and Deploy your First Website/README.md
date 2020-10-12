@@ -9,7 +9,7 @@
   - *Add your .html file, .css file, and the screenshot of your built website to folder named as your name.*
   - *Add your name folder to this workshop folder.*
   - *Send the Pull Request.*
-  - *Share your work on social media tagging @mscpilani.*
+  - *Share your work on social media tagging @mscpilani and use #codigofiesto & #mscpilani.*
  
 **You have done an amazing work!**
  
