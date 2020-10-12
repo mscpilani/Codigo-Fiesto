@@ -8,7 +8,7 @@
   - *Add your UI Designs to folder named as your name.*
   - *Add your name folder to this workshop folder.*
   - *Send the Pull Request.*
-  - *Share your work on social media tagging @mscpilani.*
+  - *Share your work on social media tagging @mscpilani and use #codigofiesto & #mscpilani.*
  
 **You have done an amazing work!**
  
